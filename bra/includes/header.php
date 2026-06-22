@@ -23,7 +23,7 @@
 
         <div>
             <a class="btn btn-outline-light me-2" href="index.php">Home</a>
-            <a class="btn btn-outline-light me-2" href="agendar.php">Agendar</a>
+            
             <a class="btn btn-outline-light me-2" href="cortes.php">Galeria</a>
             <a class="btn btn-outline-light" href="contato.php">Contato</a>
         </div>

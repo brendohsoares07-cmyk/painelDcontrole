@@ -1,5 +1,5 @@
 <?php
+include("conexao.php");
 
-require_once("conexao.php");
-
-echo "Banco conectado com sucesso!";
+echo "Conectado com sucesso!";
+?>
