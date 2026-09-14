@@ -84,7 +84,7 @@ include __DIR__ . '/includes/public_header.php';
         </div>
         <div class="row g-3">
             <div class="col-md-6"><img class="gallery-tile large" src="https://images.unsplash.com/photo-1621605815971-fbc98d665033?auto=format&fit=crop&w=1200&q=85" alt="Barbeiro trabalhando em um corte"></div>
-            <div class="col-md-3"><img class="gallery-tile" src="https://images.unsplash.com/photo-1599351431202-1e0f0d6e0f5b?auto=format&fit=crop&w=800&q=85" alt="Corte masculino em barbearia"></div>
+            <div class="col-md-3"><img class="gallery-tile" src="https://blog.kert.com.br/wp-content/uploads/2023/03/tendencias-em-cortes-de-cabelo-masculino.jpg" alt="Corte masculino em barbearia"></div>
             <div class="col-md-3"><img class="gallery-tile" src="https://images.unsplash.com/photo-1622286342621-4bd786c2447c?auto=format&fit=crop&w=800&q=85" alt="Ferramentas profissionais de barbearia"></div>
         </div>
     </div>
